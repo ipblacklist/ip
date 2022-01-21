@@ -1,4 +1,4 @@
-# ip
+# ip blacklist
 
 www.ipblacklist.org
 
